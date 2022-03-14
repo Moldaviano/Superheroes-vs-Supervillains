@@ -1,0 +1,20 @@
+{
+  "name": "cartellalavoronodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Enrico",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "email-regex": "^5.0.0",
+    "superheroes": "^3.0.0",
+    "supervillains": "^3.0.0",
+    "unicorn": "^0.0.1",
+    "username": "^6.0.0",
+    "year-days": "^4.0.0"
+  }
+}
